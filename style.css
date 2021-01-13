@@ -65,7 +65,7 @@ h2 {
     margin-bottom: 1rem;
     text-decoration: none;
     color: black;
-    background: #7C8981;
+    background: rgba(81, 151, 243, 0.993);
     border-radius: 4px;
 }
 
@@ -97,6 +97,7 @@ input {
     margin-bottom: 1rem;
     width: 20rem;
     padding: 1.5rem;
+    font-size: 1.8rem;
     border: none;
 }
 
@@ -107,13 +108,14 @@ input::placeholder {
 }
 
 #username {
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     width: 100%;
     outline: none;
+    font-size: 1.8rem;
 }
 
 #end-text {
-    font-size: 3.2rem;
+    font-size: 3.0rem;
     color: white;
     text-align: center;
 }
