@@ -18,7 +18,7 @@ body {
     transform: 100ms;
 }
 
-.choice-pre {
+.choice-prefix {
     padding: 2rem 2.5rem;
     color: white
 }
@@ -41,7 +41,7 @@ body {
     justify-content: space-between;
 }
 
-.hud-pre {
+.hud-prefix {
     text-align: center;
     font-size: 2rem;
 }
@@ -50,7 +50,7 @@ body {
     text-align: center;
 }
 
-#progBar {
+#progressBar {
     width: 20rem;
     height: 3rem;
     border: 0.2rem solid green;
@@ -59,7 +59,7 @@ body {
     overflow: hidden;
 }
 
-#progBarFull {
+#progressBarFull {
     height: 100%;
     background: green;
     width: 0%;
